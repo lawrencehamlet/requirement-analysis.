@@ -5,7 +5,7 @@ This repository documents the **Requirement Analysis Project**, focusing on defi
 
 ---
 
-## 📖 What is Requirement Analysis?
+## What is Requirement Analysis? 📖 
 Requirement Analysis is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system.  
 It ensures that both **functional** and **non-functional** requirements are well-understood before development begins.  
 
@@ -16,7 +16,7 @@ Key goals include:
 
 ---
 
-## 💡 Why is Requirement Analysis Important?
+##  Why is Requirement Analysis Important? 💡
 Requirement Analysis plays a critical role in the SDLC for several reasons:
 1. **Clarity & Alignment** – Ensures all stakeholders have a shared understanding of the system’s goals.  
 2. **Risk Mitigation** – Identifies potential challenges early, reducing costly changes later.  
@@ -24,7 +24,7 @@ Requirement Analysis plays a critical role in the SDLC for several reasons:
 
 ---
 
-## ⚙️ Key Activities in Requirement Analysis
+##  Key Activities in Requirement Analysis ⚙️
 Requirement Analysis typically involves five main activities:
 
 - **Requirement Gathering** – Collecting information from stakeholders through interviews, surveys, or observation.  
@@ -35,7 +35,7 @@ Requirement Analysis typically involves five main activities:
 
 ---
 
-## 📝 Types of Requirements
+## Types of Requirements 📝 
 
 ### 🔹 Functional Requirements
 Functional requirements define what the system **should do**.  
@@ -53,7 +53,7 @@ Examples:
 
 ---
 
-## 🎭 Use Case Diagrams
+## Use Case Diagrams 🎭 
 Use Case Diagrams visually represent system interactions between **actors** and **use cases**.  
 They help stakeholders understand the system scope at a glance.  
 
@@ -68,7 +68,7 @@ Actors may include:
 
 ---
 
-## ✅ Acceptance Criteria
+##  Acceptance Criteria ✅
 Acceptance Criteria are measurable conditions that a system must meet to be accepted by the user or client.  
 
 ### Example (Checkout Feature in Booking Management System):  
